@@ -1,0 +1,51 @@
+The Hobbit, fantasy
+Harry Potter and the Sorcerer's Stone, fantasy
+The Lord of the Rings, fantasy
+A Game of Thrones, fantasy
+Eragon, fantasy
+Interstellar, sci-fi
+Inception, sci-fi
+The Matrix, sci-fi
+Blade Runner, sci-fi
+Star Wars: A New Hope, sci-fi
+The Godfather, drama
+The Shawshank Redemption, drama
+Forrest Gump, drama
+12 Angry Men, drama
+The Pursuit of Happyness, drama
+The Da Vinci Code, mystery
+Angels & Demons, mystery
+Gone Girl, mystery
+Sherlock Holmes, mystery
+The Girl with the Dragon Tattoo, mystery
+Clean Code, programming
+Head First Java, programming
+Effective Java, programming
+Java: The Complete Reference, programming
+Python Crash Course, programming
+Introduction to AI, AI
+Artificial Intelligence: A Modern Approach, AI
+Hands-On Machine Learning, AI
+Deep Learning with Python, AI
+Neural Networks and Deep Learning, AI
+Sapiens, history
+Homo Deus, history
+Guns, Germs, and Steel, history
+The Silk Roads, history
+The Diary of a Young Girl, history
+The Hangover, comedy
+Superbad, comedy
+The Office (TV Series), comedy
+Brooklyn Nine-Nine, comedy
+Friends (TV Series), comedy
+Modern Operating Systems, computer science
+Computer Networking: A Top-Down Approach, computer science
+Design Patterns: Elements of Reusable OOP, computer science
+Introduction to Algorithms, computer science
+The Pragmatic Programmer, software engineering
+Refactoring: Improving the Design of Existing Code, software engineering
+Atomic Habits, self-help
+The Power of Habit, self-help
+Deep Work, self-help
+Thinking, Fast and Slow, self-help
+The 7 Habits of Highly Effective People, self-help
